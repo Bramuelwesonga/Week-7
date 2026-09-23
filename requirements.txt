@@ -1,0 +1,7 @@
+pandas>=2.2
+numpy>=2.0
+streamlit>=1.37
+plotly>=5.22
+matplotlib>=3.9
+imageio>=2.35
+imageio-ffmpeg>=0.5

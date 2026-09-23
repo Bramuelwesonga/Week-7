@@ -1,0 +1,12 @@
+{
+  "system_state": "elevated",
+  "last_updated": "2026-08-03T08:00:00+03:00",
+  "active_alert": "Nairobi Depot night-shift slip risk is elevated. Verify walkways and spill controls before shift handover.",
+  "ppe_violation_count": 6,
+  "ppe_compliance_threshold": 95,
+  "critical_controls": {
+    "walkway_inspection": "attention",
+    "forklift_pedestrian_separation": "safe",
+    "lockout_tagout": "safe"
+  }
+}
