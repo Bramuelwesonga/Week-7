@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Operational Safety Command Center Lab Files
 
 This folder contains the files needed to complete the Streamlit safety dashboard lab.
@@ -880,3 +881,6 @@ The code builds an **Operational Safety Command Center** using Streamlit, Pandas
 It loads safety incident data, lets users filter by site and date, calculates safety KPIs, compares risk across sites, maps incident hotspots, analyzes incident timing, identifies top incident types, and displays live safety status.
 
 Its intent is to help safety professionals quickly understand risk, detect patterns, and respond to operational safety issues more effectively.
+=======
+# Week-7
+>>>>>>> f88e30c2f461f0e3fce5ad9f45512f8cc0aa2f98
